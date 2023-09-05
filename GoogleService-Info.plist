@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>115792094371-m2pq2uqngdm3jl884f2u4v1qpgc3oqfg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.115792094371-m2pq2uqngdm3jl884f2u4v1qpgc3oqfg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>115792094371-lrjk2j5mdm69o610frt2svbk63f2inm9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDtBVyFCDrt6y6WSkz6vkyTn2ahFW65xLM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>115792094371</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ta.watanabe.practice</string>
+	<key>PROJECT_ID</key>
+	<string>practice-da34f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>practice-da34f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:115792094371:ios:c1fcac3d73e22c5cc68b16</string>
+	<key>DATABASE_URL</key>
+	<string>https://practice-da34f.firebaseio.com</string>
+</dict>
+</plist>
