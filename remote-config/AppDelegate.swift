@@ -9,7 +9,7 @@ import UIKit
 import FirebaseCore
 import FirebaseRemoteConfig
 
-// configの更新に気づいて、内部のデータを初期化して、トップスクリーンを表示したい
+// TODO: configの更新に気づいて、内部のデータを初期化して、トップスクリーンを表示したい
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
   func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
