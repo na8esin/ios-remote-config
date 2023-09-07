@@ -19,6 +19,8 @@
 		5BC430CD2AA59E67008810EF /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5BC430CC2AA59E67008810EF /* GoogleService-Info.plist */; };
 		5BC430D02AA59F1A008810EF /* FirebaseAnalyticsSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 5BC430CF2AA59F1A008810EF /* FirebaseAnalyticsSwift */; };
 		5BC430D22AA59F1A008810EF /* FirebaseRemoteConfigSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 5BC430D12AA59F1A008810EF /* FirebaseRemoteConfigSwift */; };
+		5BDBCA412AA7F89E00B84B02 /* AppResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BDBCA402AA7F89E00B84B02 /* AppResource.swift */; };
+		5BDBCA432AA7FB8B00B84B02 /* RemoteConfigDefaults.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5BDBCA422AA7FB8B00B84B02 /* RemoteConfigDefaults.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		5BC430BD2AA59D6E008810EF /* remote_configUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = remote_configUITests.swift; sourceTree = "<group>"; };
 		5BC430BF2AA59D6E008810EF /* remote_configUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = remote_configUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		5BC430CC2AA59E67008810EF /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		5BDBCA402AA7F89E00B84B02 /* AppResource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppResource.swift; sourceTree = "<group>"; };
+		5BDBCA422AA7FB8B00B84B02 /* RemoteConfigDefaults.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = RemoteConfigDefaults.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +117,8 @@
 				5BC430A52AA59D6E008810EF /* Assets.xcassets */,
 				5BC430A72AA59D6E008810EF /* LaunchScreen.storyboard */,
 				5BC430AA2AA59D6E008810EF /* Info.plist */,
+				5BDBCA402AA7F89E00B84B02 /* AppResource.swift */,
+				5BDBCA422AA7FB8B00B84B02 /* RemoteConfigDefaults.plist */,
 			);
 			path = "remote-config";
 			sourceTree = "<group>";
@@ -246,6 +252,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BC430A92AA59D6E008810EF /* LaunchScreen.storyboard in Resources */,
+				5BDBCA432AA7FB8B00B84B02 /* RemoteConfigDefaults.plist in Resources */,
 				5BC430CD2AA59E67008810EF /* GoogleService-Info.plist in Resources */,
 				5BC430A62AA59D6E008810EF /* Assets.xcassets in Resources */,
 				5BC430A42AA59D6E008810EF /* Main.storyboard in Resources */,
@@ -274,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BC430A12AA59D6E008810EF /* ViewController.swift in Sources */,
+				5BDBCA412AA7F89E00B84B02 /* AppResource.swift in Sources */,
 				5BC4309D2AA59D6E008810EF /* AppDelegate.swift in Sources */,
 				5BC4309F2AA59D6E008810EF /* SceneDelegate.swift in Sources */,
 			);
